@@ -40,7 +40,8 @@
 
 
 ## Technologies Used
-- Technologies used are Python programming.
+- Python programming
+- Jupiter notebook
 - Github
 
 
